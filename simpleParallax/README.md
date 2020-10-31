@@ -28,3 +28,5 @@ Ported from Blender material nodes.
 
 From [an answer on Blender StackExchange](https://blender.stackexchange.com/questions/40997/how-can-i-make-a-hexagonal-grill/78003#78003)
 on a question asking about how to create a hexagonal grill.
+
+![Blender Material nodegraph defining the parallax function](credit.png)
