@@ -1,5 +1,5 @@
 # XOR Texture
-```
+```glsl
 float xor(vec2 p){
     float r = 0.;
 	for (float i = 1.; i <= 32.; ++i) {
